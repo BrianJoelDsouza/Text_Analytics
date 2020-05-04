@@ -1,4 +1,4 @@
-#Abstract: This survey was conducted by team 5, on the current employees of team 5's offices in San Francisco, to gain the public info on workplace commute and insights on working conditions they prefer and if they would consider moving into the new offices of team 5, in San Jose.
+#Abstract: This survey was conducted on the current employees of an office in San Francisco, to gain info on workplace commute and insights on working conditions they would prefer and if they considered moving into the new offices located in San Jose.
 
 #Loading the required libraries
 library(tidytext)
